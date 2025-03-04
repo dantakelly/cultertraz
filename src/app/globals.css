@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+
+:root{ 
+  --BackgroundColor: white; 
+  --textColor: black; 
+  --grey: rgba(128, 128, 128, 0.151); 
+  --lowerWhite: rgba(255, 255, 255, 0.599);
+  --darkGrey: rgba(128, 128, 128, 0.398);
+}
+
+body{
+  font-family: "DM Sans", serif;
+  font-style: normal;
+
+  min-height: 100vh;
+
+  color: white;
+  /* background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%); */
+  background: radial-gradient(circle, rgba(162,54,101,1) 0%, rgba(67,71,75,1) 100%);
+
+}
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box; 
+  -webkit-tap-highlight-color: transparent; /*This removes the little blue thing when you click on clickable items on mobile :))*/
+}
+
+html {
+  scroll-behavior: smooth;
+
+  background: rgba(67,71,75,1);
+}
