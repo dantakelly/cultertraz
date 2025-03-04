@@ -1,4 +1,5 @@
 import globals from "./globals.css"
+import { Analytics } from "@vercel/analytics/react"
 
 export const metadata = {
 title: "Cultertraz",
@@ -10,6 +11,7 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <body>
         {children}
+        <Analytics />
       </body>
     </html>
   );
