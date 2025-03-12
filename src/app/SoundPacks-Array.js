@@ -22,6 +22,14 @@ const soundPacks = [
       price: "$0.00+",
       productLink: "https://payhip.com/b/GHS8J",
       borderColor: "#a197e0"
+    },
+    {
+      id: 4,
+      image: "https://payhip.com/cdn-cgi/image/format=auto,width=1500/https://pe56d.s3.amazonaws.com/o_1im5i8o01i6g1e724qr3gh1irr14.jpg",
+      title: "Sweet Mushrooms",
+      price: "$12.99",
+      productLink: "https://payhip.com/b/dWfCw",
+      borderColor: "#eab452"
     }
   ];
   
