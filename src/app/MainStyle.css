@@ -74,7 +74,7 @@
 
 .soundpack-text { 
     /* width: 90%; */
-    color: white;
+    color: var(--textColor);
     font-weight: 530;
 }
 /*  */
@@ -93,6 +93,8 @@
     box-shadow: 0px 0px 30px 8px var(--grey);
     background-color: white;
     border-radius: 5px;
+    /* border: solid 1.5px #37393d55; */
+    color:  var(--textColor);
 
     width: 98%;
     height: 80px;

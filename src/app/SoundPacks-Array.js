@@ -3,7 +3,7 @@ const soundPacks = [
       id: 1,
       image: "https://payhip.com/cdn-cgi/image/format=auto,width=1500/https://pe56d.s3.amazonaws.com/o_1im5i8o01i6g1e724qr3gh1irr14.jpg",
       title: "Sweet Mushrooms",
-      price: "$12.99",
+      price: "$3.00",
       productLink: "https://payhip.com/b/dWfCw",
       borderColor: "#eab452"
     },
@@ -11,7 +11,7 @@ const soundPacks = [
       id: 2,
       image: "https://payhip.com/cdn-cgi/image/format=auto,width=1500/https://pe56d.s3.amazonaws.com/o_1if6agtijne1ivsdja10gelk110.png",
       title: "Nature In Hands",
-      price: "4.99",
+      price: "0.00+",
       productLink: "https://payhip.com/b/cA5Pv",
       borderColor: "#9f9e63"
     },

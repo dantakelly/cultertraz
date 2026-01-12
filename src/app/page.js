@@ -8,7 +8,7 @@ import MainStyleResponsive from "./MainStyleResponsive.css"
 import soundPacks from "./SoundPacks-Array";
 import MusicArray from "./MusicArray";
 
-import ProfilePhoto from "../../public/new profile photo.jpg";
+import ProfilePhoto from "../../public/607357854_18066694271620541_7996690773655010905_n.jpg";
 import Instagram from "../../public/instagram.svg";
 import Threads from "../../public/threads.svg";
 import TikTok from "../../public/tiktok.svg";

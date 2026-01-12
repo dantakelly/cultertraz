@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
 
 :root{ 
-  --BackgroundColor: white; 
-  --textColor: black; 
+  --BackgroundColor: #f7f7f7; 
+  --textColor: #37393d; 
   --grey: rgba(128, 128, 128, 0.151); 
   --lowerWhite: rgba(255, 255, 255, 0.599);
   --darkGrey: rgba(128, 128, 128, 0.398);
@@ -14,10 +14,8 @@ body{
 
   min-height: 100vh;
 
-  color: white;
-  /* background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%); */
-  background: radial-gradient(circle, rgba(162,54,101,1) 0%, rgba(67,71,75,1) 100%);
-
+  color: var(--textColor); 
+  background: var(--BackgroundColor);
 }
 
 *{
