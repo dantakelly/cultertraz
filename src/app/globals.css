@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;600;700&display=swap');
 
 :root{ 
   --BackgroundColor: #f7f7f7; 
@@ -9,7 +9,7 @@
 }
 
 body{
-  font-family: "DM Sans", serif;
+  font-family: 'DM Sans', system-ui, sans-serif;
   font-style: normal;
 
   min-height: 100vh;
