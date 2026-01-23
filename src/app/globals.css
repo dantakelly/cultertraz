@@ -6,6 +6,7 @@
   --grey: rgba(128, 128, 128, 0.151); 
   --lowerWhite: rgba(255, 255, 255, 0.599);
   --darkGrey: rgba(128, 128, 128, 0.398);
+  --pinkColor: #FEEBF6; 
 }
 
 body{
@@ -15,7 +16,9 @@ body{
   min-height: 100vh;
 
   color: var(--textColor); 
-  background: var(--BackgroundColor);
+  /* background: var(--BackgroundColor); */
+  background: radial-gradient(circle,rgba(254, 235, 246, 1) 0%, rgba(247, 247, 247, 1) 100%);
+
 }
 
 *{
