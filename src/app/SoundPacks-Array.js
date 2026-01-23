@@ -3,7 +3,7 @@ const soundPacks = [
       id: 1,
       image: "https://payhip.com/cdn-cgi/image/format=auto,width=1500/https://pe56d.s3.amazonaws.com/o_1im5i8o01i6g1e724qr3gh1irr14.jpg",
       title: "Sweet Mushrooms",
-      price: "$3.00",
+      price: "$7.20",
       productLink: "https://payhip.com/b/dWfCw",
       borderColor: "#eab452"
     },
