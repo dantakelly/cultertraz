@@ -16,8 +16,8 @@ body{
   min-height: 100vh;
 
   color: var(--textColor); 
-  /* background: var(--BackgroundColor); */
-  background: radial-gradient(circle,rgba(254, 235, 246, 1) 0%, rgba(247, 247, 247, 1) 100%);
+  background: var(--BackgroundColor);
+  /* background: radial-gradient(circle,rgba(254, 235, 246, 1) 0%, rgba(247, 247, 247, 1) 100%); */
 
 }
 
